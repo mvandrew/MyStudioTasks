@@ -32,10 +32,10 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Управление задачами небольшой студии, редакция 1.0</v8:content>
+					<v8:content>Управление задачами небольшой студии, ред.1.0</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment/>
+			<Comment>Решение для управления задачами, проектами и взаимоотношениями с клиентами для небольшой студии или индивидуального специалиста.</Comment>
 			<NamePrefix/>
 			<ConfigurationExtensionCompatibilityMode>Version8_3_11</ConfigurationExtensionCompatibilityMode>
 			<DefaultRunMode>ManagedApplication</DefaultRunMode>
@@ -127,13 +127,13 @@
 			<BriefInformation>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Управление задачами небольшой студии, редакция 1.0</v8:content>
+					<v8:content>Управление задачами небольшой студии, ред.1.0</v8:content>
 				</v8:item>
 			</BriefInformation>
 			<DetailedInformation>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Решение для управления задачами, проектами и взаимоотношениями с клиентами для небольшой студии или индивидуального специалиста.</v8:content>
+					<v8:content>Управление задачами небольшой студии, ред.1.0</v8:content>
 				</v8:item>
 			</DetailedInformation>
 			<Copyright>
@@ -157,6 +157,12 @@
 			<Subsystem>Администрирование</Subsystem>
 			<Subsystem>ПодключаемыеОтчетыИОбработки</Subsystem>
 			<Subsystem>СтандартныеПодсистемы</Subsystem>
+			<Subsystem>ЗадачиИПроекты</Subsystem>
+			<Subsystem>CRM</Subsystem>
+			<Subsystem>Продажи</Subsystem>
+			<Subsystem>ДенежныеСредства</Subsystem>
+			<Subsystem>НСИ</Subsystem>
+			<Subsystem>Сервисная</Subsystem>
 			<StyleItem>ВидДняПроизводственногоКалендаряВоскресеньеЦвет</StyleItem>
 			<StyleItem>ВидДняПроизводственногоКалендаряНеУказанЦвет</StyleItem>
 			<StyleItem>ГруппаВариантовОтчетовЦвет82</StyleItem>
@@ -591,6 +597,11 @@
 			<Role>ЧтениеКурсовВалют</Role>
 			<Role>ЧтениеОтветовНаВопросыАнкет</Role>
 			<Role>ЧтениеРезультатовПроверкиУчета</Role>
+			<Role>Раздел_ЗадачиИПроекты</Role>
+			<Role>Раздел_CRM</Role>
+			<Role>Раздел_Продажи</Role>
+			<Role>Раздел_ДенежныеСредства</Role>
+			<Role>Раздел_НСИ</Role>
 			<CommonTemplate>ИнструкцияКакВыполнитьУстановкуОбновленияВручную</CommonTemplate>
 			<CommonTemplate>КомпонентаTWAIN</CommonTemplate>
 			<CommonTemplate>КомпонентаПечатиQRКода</CommonTemplate>

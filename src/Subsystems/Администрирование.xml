@@ -109,6 +109,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Report.РезультатыПроверкиУчета</xr:Item>
 			</Content>
 		</Properties>
-		<ChildObjects/>
+		<ChildObjects>
+			<Subsystem>ИнструментыРазработчика</Subsystem>
+		</ChildObjects>
 	</Subsystem>
 </MetaDataObject>

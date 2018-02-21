@@ -492,6 +492,13 @@
 			<CommonPicture>ЭлектронноеПисьмоВходящее</CommonPicture>
 			<CommonPicture>ЭлектронноеПисьмоИсходящее</CommonPicture>
 			<CommonPicture>ЯндексКарты</CommonPicture>
+			<CommonPicture>РазделПредприятие</CommonPicture>
+			<CommonPicture>РазделДенежныеСредства</CommonPicture>
+			<CommonPicture>РазделCRM</CommonPicture>
+			<CommonPicture>РазделЗадачиИПроекты</CommonPicture>
+			<CommonPicture>РазделГлавное</CommonPicture>
+			<CommonPicture>РазделПродажи</CommonPicture>
+			<CommonPicture>РазделНСИ</CommonPicture>
 			<SessionParameter>АвторизованныйПользователь</SessionParameter>
 			<SessionParameter>БуферОбмена</SessionParameter>
 			<SessionParameter>ВерсияРасширений</SessionParameter>
@@ -1538,6 +1545,7 @@
 			<Catalog>ШаблоныСообщенийПрисоединенныеФайлы</Catalog>
 			<Catalog>ЭлектронноеПисьмоВходящееПрисоединенныеФайлы</Catalog>
 			<Catalog>ЭлектронноеПисьмоИсходящееПрисоединенныеФайлы</Catalog>
+			<Catalog>Партнеры</Catalog>
 			<Document>Анкета</Document>
 			<Document>НазначениеОпросов</Document>
 			<Document>Встреча</Document>
@@ -1624,6 +1632,7 @@
 			<Enum>ФорматыХраненияОдностраничныхФайлов</Enum>
 			<Enum>ЦветаЗаметок</Enum>
 			<Enum>ЦветностиИзображения</Enum>
+			<Enum>КомпанияЧастноеЛицо</Enum>
 			<Report>АнализВерсийОбъектов</Report>
 			<Report>АнализЖурналаРегистрации</Report>
 			<Report>АналитическийОтчетПоАнкетированию</Report>

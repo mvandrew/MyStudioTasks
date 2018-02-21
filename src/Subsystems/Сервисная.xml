@@ -33,6 +33,13 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ОперацииСтатистики</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ПакетыДляОтправки</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.СтатистикаКонфигурации</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.РазделПредприятие</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.РазделДенежныеСредства</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.РазделCRM</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.РазделЗадачиИПроекты</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.РазделГлавное</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.РазделПродажи</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.РазделНСИ</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

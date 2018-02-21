@@ -13,9 +13,14 @@
 			<IncludeHelpInContents>true</IncludeHelpInContents>
 			<IncludeInCommandInterface>true</IncludeInCommandInterface>
 			<Explanation/>
-			<Picture/>
+			<Picture>
+				<xr:Ref>CommonPicture.РазделCRM</xr:Ref>
+				<xr:LoadTransparent>true</xr:LoadTransparent>
+			</Picture>
 			<Content/>
 		</Properties>
-		<ChildObjects/>
+		<ChildObjects>
+			<Subsystem>СправочникиCRM</Subsystem>
+		</ChildObjects>
 	</Subsystem>
 </MetaDataObject>
